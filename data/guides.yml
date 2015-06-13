@@ -148,6 +148,8 @@
       url: "working-with-records"
     - title: "The Rest Adapter"
       url: "the-rest-adapter"
+    - title: "The Basic Adapter"
+      url: "the-basic-adapter"
     - title: "Connecting to an HTTP Server"
       url: "connecting-to-an-http-server"
     - title: "Handling Metadata"
