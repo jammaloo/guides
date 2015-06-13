@@ -270,6 +270,9 @@
     - title: "Resetting scroll on route changes"
       url: "user_interface_and_interaction/resetting_scroll_on_route_changes"
       skip_sidebar_item: true
+    - title: "Basic Form Validations"
+      url: "user_interface_and_interaction/basic_form_validations"
+      skip_sidebar_item: true
     # events and bindings
     - title: "Event Handling & Data Binding"
       url: "event_handling_and_data_binding/index"
