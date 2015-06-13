@@ -100,6 +100,8 @@
       url: "loading-and-error-substates"
     - title: "Preventing and Retrying Transitions"
       url: "preventing-and-retrying-transitions"
+    - title: "Link to Router Flow"
+      url: "link-to-router-flow"
 
 - title: "Components"
   url: 'components'
@@ -322,6 +324,12 @@
       url: "run-loop"
     - title: "Dependency Injection & Service Lookup"
       url: "dependency-injection-and-service-lookup"
+
+- title: "Understanding Ember Data"
+  url: 'understanding-ember-data'
+  chapters:
+    - title: "Record Lifecycle"
+      url: "record-lifecycle"
 
 - title: "Contributing to Ember.js"
   url: 'contributing'
