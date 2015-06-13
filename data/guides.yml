@@ -303,6 +303,13 @@
     - title: "Continuous Redrawing of Views"
       url: "working_with_objects/continuous_redrawing_of_views"
       skip_sidebar_item: true
+    # Ember data
+    - title: "Ember Data"
+      url: "ember_data/index"
+    - title: "Displaying Only Committed DS.Model Records"
+      url: "ember_data/displaying_only_committed_records"
+    - title: "Linking To Slugs"
+      url: "ember_data/linking_to_slugs"
 
 - title: "Understanding Ember.js"
   url: 'understanding-ember'
